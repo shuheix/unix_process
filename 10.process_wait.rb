@@ -35,3 +35,6 @@ end
 Process.wait
 Process.wait
 abort 'Parent Process died'
+
+
+# Process.waitの戻り値はpid
